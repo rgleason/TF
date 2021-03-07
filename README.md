@@ -1,5 +1,19 @@
 # TF
 
+References:
+
+## Antora
+
+  https://docs.antora.org/antora/2.3/
+ 
+  Generates the html for a website.
+ 
+## AsciidocFX
+
+  https://github.com/asciidocfx/AsciidocFX
+
+  Used for editing/writing adoc pages.
+
 
 ## Copyright and licensing
 
