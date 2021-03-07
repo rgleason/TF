@@ -24,8 +24,4 @@ image:1.jpg[options->install]
 
 Click on the TideFinder icon in the toolbar. A box appears. Important not to close the box when you go to the next step.
 
-image:ios-slider.png[Slide filename right to expose management options.]
-
-
-image:ios-file-squirrel.png[Squirrel image in the iOS app]
 
