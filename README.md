@@ -13,6 +13,12 @@ References:
   https://github.com/asciidocfx/AsciidocFX
 
   Used for editing/writing adoc pages.
+  
+## Searching
+
+One way of doing this is to use antora-lunr
+
+https://github.com/Mogztter/antora-lunr
 
 
 ## Copyright and licensing
