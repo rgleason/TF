@@ -10,7 +10,7 @@ content:
 ui:
   output_dir: assets
   bundle:
-    url: https://github.com/Rasbats/TF/files/6096909/ui-bundle.zip
+    url: https://github.com/Rasbats/TF/files/6096938/ui-bundle2.zip
     snapshot: true
     
 
