@@ -1,0 +1,6 @@
+name: TideFinder
+title: TideFinder plugin for OpenCPN
+version: master
+start_page: ROOT:index.adoc
+nav:
+- modules/ROOT/nav.adoc

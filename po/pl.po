@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-06 12:23-0500\n"
+"PO-Revision-Date: 2015-06-06 13:27-0400\n"
+"Last-Translator: nohal <pavel@kalian.cz>\n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: opencpn\n"
+"X-Crowdin-Language: pl\n"
+"X-Crowdin-File: /plugins/tidefinder_pi/po/tidefinder_pi.pot\n"
+
+#: src/TCWin.cpp:79 src/TideFindergui_impl.h:98 src/TideFinder_pi.cpp:103
+#: src/TideFinder_pi.cpp:181
+msgid "Tide Finder"
+msgstr ""
+
+#: src/TCWin.cpp:139 src/TideFindergui_impl.cpp:810
+#: src/TideFindergui_impl.cpp:850
+msgid "OK"
+msgstr ""
+
+#: src/TCWin.cpp:142 src/TideFindergui.cpp:73
+msgid "Prev"
+msgstr ""
+
+#: src/TCWin.cpp:152 src/TideFindergui.cpp:78
+msgid "Next"
+msgstr ""
+
+#: src/TCWin.cpp:390
+msgid "  HW"
+msgstr ""
+
+#: src/TCWin.cpp:390
+msgid "  LW"
+msgstr ""
+
+#: src/TCWin.cpp:514
+msgid "Today"
+msgstr ""
+
+#: src/TCWin.cpp:515 src/TCWin.cpp:520
+msgid "Tomorrow"
+msgstr ""
+
+#: src/TideFindergui.cpp:68
+msgid "Select Date"
+msgstr ""
+
+#: src/TideFindergui.cpp:83
+msgid "Graph"
+msgstr ""
+
+#: src/TideFindergui.cpp:124
+msgid "General settings"
+msgstr ""
+
+#: src/TideFindergui.cpp:131
+msgid "Speed"
+msgstr ""
+
+#: src/TideFindergui.cpp:142
+msgid "TideFinder Interval"
+msgstr ""
+
+#: src/TideFindergui.h:83
+msgid "TideFinder"
+msgstr ""
+
+#: src/TideFindergui.h:103 src/TideFindergui_impl.h:92
+msgid "TideFinder preferences"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:172
+msgid "Select your Port"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:504 src/TideFindergui_impl.cpp:577
+msgid " "
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:574 src/TideFindergui_impl.cpp:591
+msgid "HW"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:574 src/TideFindergui_impl.cpp:582
+msgid "LW"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:705
+msgid "Select the date for Tides"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:791
+#, c-format
+msgid " x = %d y = %d\n"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:793
+#, c-format
+msgid " width = %d height = %d\n"
+msgstr ""
+
+#: src/TideFindergui_impl.cpp:812 src/TideFindergui_impl.cpp:852
+msgid "Cancel"
+msgstr ""
+
+#: src/TideFinder_pi.cpp:109
+msgid "Tide Finder Position"
+msgstr ""
+
