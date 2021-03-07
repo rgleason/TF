@@ -10,7 +10,7 @@ content:
 ui:
   output_dir: assets
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    url: https://github.com/Rasbats/TF/tree/main/ui-bundle/ui-bundle.zip?job=bundle-stable
     snapshot: true
     
 
