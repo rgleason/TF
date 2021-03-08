@@ -16,7 +16,7 @@ ui:
 
 output:
   clean: true
-  dir: public
+  
 
 asciidoc:
   attributes:
