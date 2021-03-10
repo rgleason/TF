@@ -3,4 +3,4 @@ title: component
 version: 0.0.1
 start_page: ROOT:index.adoc
 nav:
-- modules/ROOT/index.adoc
+- modules/ROOT/nav.adoc
