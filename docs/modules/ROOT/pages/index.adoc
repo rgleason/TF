@@ -23,6 +23,6 @@ image::1.jpg[options->install]
 [[Using-plugin]]
 == Using the plugin
 
-Click on the TideFinder icon in the toolbar. A box appears. Important not to close the box when you go to the next step.
+Click on the TideFinder icon in the toolbar. A box appears. Important not to close the box when you go to the next step now.
 
 
